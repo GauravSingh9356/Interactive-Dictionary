@@ -23,18 +23,18 @@ def translate(word):
         return "Word doesn't exist. Please double check it."
 
 
-print("Welcome to Interactive English Dictionary\n")
-word = input("Enter word: ")
+#print("Welcome to Interactive English Dictionary\n")
+#word = input("Enter word: ")
 
-output = translate(word)
+#utput = translate(word)
 
-if type(output) == list:
-    i = 1
-    for item in output:
-        print(f"**************{i}***************")
-        print(item, "\n")
-        i += 1
+#if type(output) == list:
+    #i = 1
+    #for item in output:
+     #   print(f"**************{i}***************")
+      #  print(item, "\n")
+       # i += 1
 
 
-else:
-    print(output)
+#else:
+ #   print(output)
