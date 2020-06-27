@@ -22,5 +22,5 @@ cd vitual env directory and Scripts\activate
 
 ## Flask Added for UI still in beta
 
-       ### Flask added for hosting but final page where ans appear, work on css is to be done..
+ ### Flask added for hosting but final page where ans appear, work on css is to be done..
         
